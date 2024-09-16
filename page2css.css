@@ -1,0 +1,332 @@
+
+* img{
+    object-fit: cover;
+}
+
+/*________main_________*/
+
+main{
+    margin: auto 3%;
+}
+
+/*______sect1_______*/
+
+.user{
+    display: flex;
+    align-items: center;
+    width: 200px;
+    margin-right: 20px;
+}
+.div1{
+    display: flex;
+}
+
+.user .info p{
+    margin: 0;
+    margin-top: 5px;
+    margin-left: 10px;
+
+}
+
+.user{
+    border-right: 3px solid rgb(207, 204, 204);
+}
+
+
+#sec1 h1{
+
+font-size: 80px;
+font-weight: 600;
+line-height: 77.45px;
+letter-spacing: -0.04em;
+text-align: left;
+
+}
+
+#dernieruser{
+    border: none;
+}
+
+
+
+.printshare{
+    width: 180px;
+    justify-content: space-between;
+    display: flex;
+    margin-left: auto;
+    margin-top: auto;
+}
+
+
+.print,.share{
+width: 80px;
+height: 80px;
+border-radius: 100%;
+background-color: #E7FAFE;
+display: flex;
+justify-content: center; /* Centre l'image horizontalement */
+align-items: center;
+}
+
+.section1{
+    display: flex;
+    
+}
+
+/*__________sectionimgnutrition_____________*/
+
+
+#sectionnutrition{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    
+}
+
+#sectionnutrition img{
+    width: 1100px;
+    border-radius: 60px;
+}
+.nutrition{
+    width: 600px;
+    height: 800px;
+    border-radius: 30px;
+    background-color: #E7FAFE;
+    
+}
+.nutrition h1{
+    padding: 5% 10%;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 29.05px;
+    letter-spacing: -0.04em;
+    text-align: left;
+
+}
+
+.info{
+    padding: 0 10%;
+}
+
+.nutrition .info1{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(228, 214, 214);
+}
+.nutrition #infop{
+    padding-top: 65%;
+    width: 336px;
+    height: 56px;
+    text-align: center;
+    margin: auto    ;
+
+
+}
+.texte p{
+    margin-top: 80px;
+}
+
+/*_____section2_________*/
+
+.ingredient{
+    width: 67%;
+}
+
+.Forthesauce{
+    margin-top: 50px;
+}
+
+.texteinfo{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgb(204, 183, 183);
+    margin-bottom: 60px;
+}
+
+.texteinfo img{
+    margin-right: 15px;
+}
+
+#section2{
+    display: flex;
+}
+
+.imginfo{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.imginfo img{
+    margin-right: 10px;
+}
+.OtherRecipe h1{
+    margin-left: 40px;
+}
+#imgasd{
+   margin-left: 150px;
+   margin-top: 80px;
+}
+
+/*_________section2partie2__________*/
+
+.sec1 .titretexte{
+    display: flex;
+    align-items: center;
+}
+
+.sec1 .titretexte h2{
+    margin-left: 25px;
+}
+
+.sec1 p{
+    margin-left: 50px;
+}
+
+
+.sec1 #imgsec1{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.divhr hr{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+
+/*________sec7_______*/
+
+
+#sec7{
+    width: 100%;
+
+}
+
+.divsec7{
+    width: 100%;
+    height: 442px;
+    margin: auto;
+    margin-top: 150px;
+    background-color: #E8F9FD;
+    border-radius: 60px;
+    position: relative;
+}
+
+#img1sec7{
+    position: absolute;
+    bottom: 0;
+    border-radius: 0 0 0 60px;
+}
+#img2sec7{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border-radius: 0  0 60px 0 ;
+}
+
+
+
+.titretexte h2{
+font-size: 48px;
+font-weight: 600;
+line-height: 58.09px;
+letter-spacing: -0.04em;
+
+}
+
+.divsec7 .titretexte{
+    text-align: center;
+    margin: auto;
+    width: 589px;
+    height: 290px;
+    padding-top: 40px;
+    position: relative;
+
+}
+
+#emailsec7{
+    margin-top: 50px;
+    width: 480px;
+    height: 80px;
+    border-radius: 24px;
+    
+
+
+}
+#boutoninput{
+    position: absolute;
+    color: white;
+    background-color: black;
+    width: 160px;
+    height: 60px;
+    top: 292px;
+    right: 60px;
+    gap: 0px;
+    border-radius: 16px;
+    opacity: 0px;
+
+}
+
+#sec8 h1{
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43.57px;
+    letter-spacing: -0.04em;
+    margin-top: 150px;
+}
+
+/*_____section6___*/
+
+#sec6{
+    display: flex; 
+    justify-content: space-between;  
+    width: 100%;
+}
+
+.blocksection6 img{
+    
+    height: auto;
+    width: 400px;
+    border-radius: 20px ;
+
+    
+}
+
+.divtitreblock h2{
+    width: 290px;
+    height: 52px;
+    font-family: Inter;
+    font-size: 18px;
+
+
+    text-align: left;
+
+
+}
+.info1{
+    width: 290px;
+    display: flex;
+
+}
+.info1 img{
+    width: 24px;
+}
+.minute{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 50%;
+}
+.Healthy{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 50%;
+}
+
+
+
+
