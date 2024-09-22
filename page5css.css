@@ -1,0 +1,47 @@
+main{
+    margin: auto 3%;
+}
+
+h1{
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 77.45px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    text-align: center;
+}
+.div1{
+    display: flex;
+}
+
+.name{
+    margin-right: 30px;
+}
+.subject{
+    margin-right: 30px;
+}
+
+.input1{
+    display: flex;
+}
+.input2{
+    display: flex;
+}
+
+input{
+    width: 400px;
+    height: 60px;
+    border-radius: 16px;
+}
+
+.message input{
+    width: 840px;
+    height: 200px;
+    border-radius: 16px ;
+
+
+}
+
+
+
