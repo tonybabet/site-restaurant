@@ -42,8 +42,14 @@ input{
     height: 60px;
     border-radius: 16px;
 }
+#inputenquiry{
+    width: 410px;
+    height: 65px;
+    border-radius: 16px;
+    border: 2px solid black;
+}
 
-.message input{
+.message textarea{
     width: 840px;
     height: 200px;
     border-radius: 16px ;
