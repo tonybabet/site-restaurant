@@ -3,6 +3,12 @@
 
 }
 
+.imagetaille{
+    width: 290px;
+    height: 200px;
+    object-fit: cover;
+}
+
 .divsec1{
     width: 100%;
     height: 442px;
